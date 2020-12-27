@@ -33,7 +33,7 @@ $ bash ./run_test.sh [your testing data path]
 
 ## Relative articles
 
-[Multi-task learning based P/S wave separation and reverse time migration for VSP](https://doi.org/10.1190/segam2020-3426539.1)
+[Multi-task learning based P/S wave separation and reverse time migration for VSP](https://doi.org/10.1190/segam2020-3426539.1)<br>
 [Yanwen Wei](https://scholar.google.com/citations?hl=en&user=il-IuekAAAAJ&view_op=list_works&sortby=pubdate), Yunyue Elita Li, Jizhong Yang, Jingjing Zong, Jinwei Fang, and Haohuan Fu
 SEG Technical Program Expanded Abstracts 2020. September 2020, 1671-1675
 
