@@ -10,8 +10,8 @@ This project contains
 
 ## Install
 
-Our method bases on [Python3](https://www.python.org/downloads/) and [Pytorch](https://pytorch.org). 
-First install your python environment. We recommend [Anaconda](https://www.anaconda.com/).
+Our method bases on [Python3](https://www.python.org/downloads/) and [Pytorch](https://pytorch.org). <br>
+First install your python environment. We recommend [Anaconda](https://www.anaconda.com/).<br>
 Second, get into the ```/src``` directory, and install the required package in your python3 environment, 
 
 ```sh
