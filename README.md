@@ -21,14 +21,22 @@ $ pip install -r requirements.txt
 ## Usage
 
 ### train 
+first modify main.py and then 
 
 ```sh
-$ bash ./run_train.sh 
+$ bash ./run.sh main 
 ```
 
 ### test
+Modify test.py and then 
+
 ```sh
-$ bash ./run_test.sh 
+$ bash ./run.sh test 
+```
+### demo
+
+```sh
+$ bash ./run.sh demo
 ```
 
 ## Relative publications
