@@ -1,5 +1,7 @@
 # SepaNet: A deep learning-based P- and S-wave separation method for vertical seismic data
 
+[![DOI](https://zenodo.org/badge/324677777.svg)](https://zenodo.org/badge/latestdoi/324677777)
+
 ## Background
 We propose a data-driven deep learning-based P- and S-wave separation method. Our method employs a neural network that simultaneously extracts P- and S-potential data from multi-components. To avoid the enormous computational cost in wave simulation while constructing training datasets with sufficient kinematic and dynamic variations, we employ a smart wavefield sampling strategy where only a dozen elastic wave simulations are performed on a single velocity model. Generalization tests on various synthetic models and their corresponding reverse time migration images demonstrate that the proposed strategy provides sufficient sampling of the high dimensional data space and virtually ensures successful applications of the trained NN on a vast range of geological scenarios.
 
