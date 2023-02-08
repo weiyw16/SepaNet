@@ -23,19 +23,20 @@ $ pip install -r requirements.txt
 ### train 
 
 ```sh
-$ bash ./run_train.sh [your training data path]
+$ bash ./run_train.sh 
 ```
 
 ### test
 ```sh
-$ bash ./run_test.sh [your testing data path]
+$ bash ./run_test.sh 
 ```
 
 ## Relative articles
 
+[Deep Learning-Based P- and S-Wave Separation for Multicomponent Vertical Seismic Profiling](https://doi.org/10.1109/TGRS.2021.3124413)<br>
+[Yanwen Wei](https://scholar.google.com/citations?hl=en&user=il-IuekAAAAJ&view_op=list_works&sortby=pubdate), Yunyue Elita Li, Jingjing Zong, Jizhong Yang, Haohuan Fu, and Mengyao Sun. 
+IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-16, 2022, Art no. 5908116, doi: 10.1109/TGRS.2021.3124413.
+
 [Multi-task learning based P/S wave separation and reverse time migration for VSP](https://doi.org/10.1190/segam2020-3426539.1)<br>
-[Yanwen Wei](https://scholar.google.com/citations?hl=en&user=il-IuekAAAAJ&view_op=list_works&sortby=pubdate), Yunyue Elita Li, Jizhong Yang, Jingjing Zong, Jinwei Fang, and Haohuan Fu
 SEG Technical Program Expanded Abstracts 2020. September 2020, 1671-1675
-
-
 
