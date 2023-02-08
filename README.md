@@ -12,7 +12,7 @@ This project contains
 
 Our method bases on [Python3](https://www.python.org/downloads/) and [Pytorch](https://pytorch.org). <br>
 First, install your python environment. We recommend [Anaconda](https://www.anaconda.com/).<br>
-Second, go into the ```/src``` directory, and install the required package in your python3 environment, 
+Second, go into the root directory of this repository, and install the required package in your python3 environment, 
 
 ```sh
 $ pip install -r requirements.txt
@@ -31,7 +31,7 @@ $ bash ./run_train.sh
 $ bash ./run_test.sh 
 ```
 
-## Relative articles
+## Relative publications
 
 [Deep Learning-Based P- and S-Wave Separation for Multicomponent Vertical Seismic Profiling](https://doi.org/10.1109/TGRS.2021.3124413)<br>
 [Yanwen Wei](https://scholar.google.com/citations?hl=en&user=il-IuekAAAAJ&view_op=list_works&sortby=pubdate), Yunyue Elita Li, Jingjing Zong, Jizhong Yang, Haohuan Fu, and Mengyao Sun. 
